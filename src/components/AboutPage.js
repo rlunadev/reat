@@ -3,10 +3,10 @@ import React from "react";
 class AboutPage extends React.Component {
     render() {
         return (
-        <React.Fragment>
-            <h2>About</h2>
+        <div>
+            <h2>About, its a demo</h2>
             <p>This app uses React.</p>
-        </React.Fragment>
+        </div>
         )
     }
 }
